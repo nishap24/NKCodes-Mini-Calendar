@@ -16,7 +16,7 @@ NK Codes💛 Mini Calendar is a simple web project that displays the current dat
 
 Live Demo:
 
-  
+ https://nishap24.github.io/NKCodes-Mini-Calendar/ 
 ## Getting Started:
 
 To use the NK Codes💛 Mini Calendar web page, follow these steps:
