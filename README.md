@@ -72,6 +72,12 @@ Feel free to customize and tailor the code further to suit your specific needs o
 - Responsive layout that adapts to different screen sizes.
 
 - Easy to integrate into any website or project.
+
+## Deployment Status 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/52be1e70-2258-4613-9392-5698230808c8/deploy-status)](https://app.netlify.com/sites/kanasu-mini-calendar/deploys)
+
+
 ## Contributing
 
 Contributions are always welcome!
